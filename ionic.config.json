@@ -1,0 +1,7 @@
+{
+  "name": "Routing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
